@@ -1,0 +1,49 @@
+# Windows default autosave extension
+*.asv
+
+# OSX / *nix default autosave extension
+*.m~
+
+# Compiled MEX binaries (all platforms)
+*.mex*
+
+# Packaged app and toolbox files
+*.mlappinstall
+*.mltbx
+
+# Generated helpsearch folders
+helpsearch*/
+
+# Simulink code generation folders
+slprj/
+sccprj/
+
+# Matlab code generation folders
+codegen/
+
+# Simulink autosave extension
+*.autosave
+
+# Octave session info
+octave-workspace
+
+# Ignore pdf files
+*.pdf
+
+# json files
+*.json
+
+# numpy saves
+*.npz
+
+# subfolder for data_input
+data_input
+
+#subfolder for data output
+output
+
+# pycache datei for objects
+__pycache__
+
+# pytest_cache
+.pytest_cache
